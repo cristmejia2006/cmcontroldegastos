@@ -94,10 +94,10 @@ val expensesByCategory: Map<String, Double>
 ### Pasos de Instalación
 1.  **Clonación del Repositorio:**
     ```bash
-    git clone https://github.com/tu-usuario/cmcontroldegastos.git
+    git clone https://github.com/cristmejia2006/cmcontroldegastos.git
     ```
 2.  **Configuración de Firebase:** Vincular el archivo `google-services.json` en el directorio `app/`.
-3.  **Autenticación:** Habilitar el proveedor "Email/Password" en el panel de Firebase.
+3.  **Autenticación:** Habilitar el proveedor "Email/Contraseña" en el panel de Firebase.
 4.  **Servicio de Datos:** Inicializar Cloud Firestore en la consola de administración.
 
 ---
